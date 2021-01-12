@@ -1,0 +1,14 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve /src"
+  },
+  "author": "Siannet Flores",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
