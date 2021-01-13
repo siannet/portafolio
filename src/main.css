@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    font-family: "montserrat";
+    padding: 3em;
+}
+
+#v0 {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+}
+
+#set-height {
+    display: block;
+}
+
+section {
+    z-index: 1;
+    position: relative;
+}
